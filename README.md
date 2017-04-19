@@ -21,9 +21,9 @@ Optionally, you can also install pygame if you want to see your visualization.
 ### Code
 
 * `solution.py`
-* `solution_test.py
-* `PySudoku.py
-* `visualize.py
+* `solution_test.py`
+* `PySudoku.py`
+* `visualize.py`
 
 ### Visualizing
 
